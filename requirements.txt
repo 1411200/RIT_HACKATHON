@@ -52,5 +52,5 @@ urllib3==1.26.12
 validators==0.20.0
 watchdog==2.1.9
 zipp==3.8.1
-xgboost==1.0.2
+xgboost==2.0.1
 numba==0.48.0
